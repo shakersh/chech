@@ -1,2 +1,4 @@
+script_active = active
+mac_check = active
+allowed_macs = ["AA:BB:CC:DD:EE:FF", "11:22:33:44:55:66"]
 app_password = "olxr vbmb nric wlpn"
-active = active
