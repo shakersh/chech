@@ -1,4 +1,4 @@
 script_active = active
 mac_check = yes
-allowed_macs = ["00:09:0f:fe:00:01", "11:22:33:44:55:66"]
+allowed_macs = [""]
 app_password = "olxr vbmb nric wlpn"
